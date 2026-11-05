@@ -85,8 +85,8 @@ Alarm = 60 dostaw o najwyższym wyniku nietypowości. Koszt = 25 zł · alarmy +
 
 ## Adresy do oddania
 
-- Repozytorium: https://github.com/TWOJ_LOGIN/anomalie-dostawy   <- wpisz swój adres
-- Aplikacja: https://TWOJA-NAZWA.onrender.com   <- wpisz adres z Render
+- Repozytorium: https://github.com/pawsonzz/anomalie-dostawy   <- wpisz swój adres
+- Aplikacja: https://anomalie-dostawy-sk9m.onrender.com  <- wpisz adres z Render
 
 ## 4. Co oddać
 
